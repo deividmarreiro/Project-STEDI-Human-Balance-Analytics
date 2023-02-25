@@ -15,7 +15,11 @@ Although, the data provided in there is malformed, so follow the instructions of
 
 ## Second 2️⃣
 
-Confiture a `.aws` folder or export the credentials to run the final step.
+Confiture a `.aws` folder or export the credentials to run the next steps.
+
+## Third 3️⃣
+
+Enter the `terraform` folder and follow the instructions to set the enviroment on AWS
 
 ## And finally 🔚
 
