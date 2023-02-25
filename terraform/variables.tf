@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "bucket_name" {
     type = string
-    default = "udacity-stedi-lakehouse"
+    default = "udacity-stedi-data-lakehouse"
 }
 
 variable "glue_iam_role" {
